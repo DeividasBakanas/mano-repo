@@ -6,3 +6,8 @@ Su kažkokiu turiniu. Ruošiamės konfliktui. Bandysiu atsišaudyt.
 
 -   Pirmas elementas
 -   Antras elementas
+
+## Pavyzdinis sąrašas 2
+
+-   Pirmas elementas
+-   Antras elementas
