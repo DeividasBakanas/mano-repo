@@ -1,3 +1,3 @@
 # Nauja testinė repo
 
-Su kažkokiu turiniu.
+Su kažkokiu turiniu. Ruošiamės konfliktui.
