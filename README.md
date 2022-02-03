@@ -1,3 +1,3 @@
 # Nauja testinė repo
 
-Su kažkokiu turiniu. Ruošiamės konfliktui.
+Su kažkokiu turiniu. Ruošiamės konfliktui. Bandysiu atsišaudyt.
